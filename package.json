@@ -1,0 +1,13 @@
+{
+  "name": "TypeScript-Angular-Testing",
+  "main": "app.js",
+  "repository": "git@github.com:acadonis/TypeScript-Angular-Testing.git",
+  "author": "Alexis Adonis <acadonis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.7.2"
+  },
+  "scripts": {
+    "build-ts": "./node_modules/.bin/tsc"
+  }
+}
